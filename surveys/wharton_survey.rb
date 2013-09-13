@@ -9,6 +9,10 @@ survey "Wharton Survey" do
 	q "Last Name"
     a :string
 
+    q "Gender"
+    a "Male"
+    a "Female"
+
     q "Lifelong Wharton Email (firstname.lastname.wg15@wharton.upenn.edu)"
     a :string
 
